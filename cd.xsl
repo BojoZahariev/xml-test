@@ -9,9 +9,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <link rel="stylesheet" type="text/css" href="style.css" />
   </head>
   <body>
-  <h2>My CD Collection</h2>
+  <h2 class='title'>My CD Collection</h2>
   <table border="1">
-    <tr bgcolor="#9acd32">
+    <tr class='thead'>
       <th>Title</th>
       <th>Artist</th>
     </tr>

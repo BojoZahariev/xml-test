@@ -1,3 +1,11 @@
-h2 {
-  color: blue;
+.title {
+  color: cadetblue;
+}
+
+th {
+  color: darkblue;
+}
+
+.thead {
+  background-color: #9acd32;
 }
